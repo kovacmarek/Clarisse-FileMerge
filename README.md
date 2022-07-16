@@ -11,13 +11,13 @@ Houdini's FileMerge node recreated inside Clarisse
 
 
 
-1.) Select Context folder
+1. Select Context folder
 
-2.) Run script
+2. Run script
 
-3.) Set range of variations / wedges
+3. Set range of variations / wedges
 
-4.) Select first file of the sequence and replace `1001` with `####` & same goes for separator (called $SLICE in Houdini).
+4.Select first file of the sequence and replace `1001` with `####` & same goes for separator (called $SLICE in Houdini).
 
 
 - If you set range to 0-10, but your geometry is only 0-5, it will only import files available on disk and report missing geometries in Logs (6-10 missing in this case).
