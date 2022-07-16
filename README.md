@@ -1,4 +1,4 @@
-# Clarisse_FileMerge
+# Clarisse FileMerge
 Houdini's FileMerge node recreated inside Clarisse
 
 ![image](https://user-images.githubusercontent.com/30508711/179374192-4c978b97-53dc-4a26-9ce6-e49ebd540a0b.png)
