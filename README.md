@@ -10,6 +10,7 @@ Houdini's FileMerge node recreated inside Clarisse
 ![image](https://user-images.githubusercontent.com/30508711/179374371-d5b1252f-1aca-4bf5-b460-fb7cad655ed8.png)
 
 
+### Steps:
 
 1. Select Context folder
 
