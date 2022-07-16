@@ -20,7 +20,7 @@ Houdini's FileMerge node recreated inside Clarisse
 4. Select first file of the sequence and replace `1001` with `####` & same goes for separator (called $SLICE in Houdini).
 
 
-add. info:
+### Add. info:
 
 - If you set range to 0-10, but your geometry is only 0-5, it will only import files available on disk and report missing geometries in Logs (6-10 missing in this case).
 - For still frames, exclude `####` from the file name.
