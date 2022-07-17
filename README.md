@@ -25,4 +25,4 @@ Houdini's FileMerge node recreated inside Clarisse
 
 - If you set range to 0-10, but your geometry is only 0-5, it will import files available on disk and report missing geometries in Logs (6-10 missing in this case).
 - For still frames, exclude `####` from the file name.
-- In it's current state, this tool is not setting `Frame Range` & `Frame Rate`. It's neccessary to press CTRL+A and set these values on all the sims manually (with detect range button) after successful script execution.
+- In it's current state, this tool is not setting `Frame Range` & `Frame Rate`. It's neccessary to press CTRL+A and set these values on all the sims manually (with Detect Sequence button) after successful script execution.
